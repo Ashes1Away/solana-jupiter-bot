@@ -109,3 +109,4 @@ temp/*
 
 # useless stuff
 .DS_Store
+*.zip
