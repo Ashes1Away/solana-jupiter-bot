@@ -110,3 +110,12 @@ temp/*
 # useless stuff
 .DS_Store
 *.zip
+
+# debug stuff
+*.cpuprofile
+*.heapprofile
+*.heapsnapshot
+
+# Qodana
+.idea
+qodana.yaml
